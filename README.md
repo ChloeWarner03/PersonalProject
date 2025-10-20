@@ -7,7 +7,7 @@ This is the start of the assignment for our CS 291 class, creating a personal pr
 ## Vision: 
 - We want to create a project to
 
-# Parts of the personal project:
+### Parts of the personal project:
 - Medication Log: Add meds, mark when you take them, send reminders?(alerts when missed?)
 - Symptom Tracker: Daily log for symptoms, rate them (scale 1-10), any notes for doctor visit
 - Save Data
