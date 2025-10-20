@@ -14,7 +14,9 @@ This is the start of the assignment for our CS 291 class, creating a personal pr
 
 ## Inital Requirements:
 Features:
-- 
+- Log Medications: Track meds, log when you take them, send reminders
+- Symptom Treacker: Log symptoms daily, rate them (scale 1-10), notes for doctors visit.
+- Display Data: Display data tracked, identify trends between symptoms, medications, and other factors. 
 
 ## Architecture:
 - will be a mobile app
