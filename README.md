@@ -19,3 +19,10 @@ Features:
 ## Architecture:
 
 ## Team:
+Libby Tanner:
+ - Has take 260, 235, 224, 236
+ - created a personal project names soundscope for rating songs.
+
+Chloe Warner:
+- Has take 260, 235, 224, 236
+- created a personal project names whack-a-mole for playing the childhood arcade game.
