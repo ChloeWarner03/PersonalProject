@@ -17,6 +17,9 @@ Features:
 - 
 
 ## Architecture:
+- will be a mobile app
+- will need a back-end
+- will need a database
 
 ## Team:
 ### Libby Tanner:
