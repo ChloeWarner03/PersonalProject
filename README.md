@@ -27,7 +27,9 @@ Features:
 ### Libby Tanner:
  - Has take 260, 235, 224, 236
  - created a personal project names soundscope for rating songs.
+ - Languages: C++, C, Python, JavaScript, HTML/CSS
 
 ### Chloe Warner:
 - Has take 260, 235, 224, 236
 - created a personal project names whack-a-mole for playing the childhood arcade game.
+- Languages: C++, C, Python, JavaScript, HTML/CSS
