@@ -26,6 +26,6 @@ This app will be a mobile app, to increase ease of logging symptoms and meds. We
  - Languages: C++, C, Python, JavaScript, HTML/CSS
 
 ### Chloe Warner:
-- Has taken 260, 235, 224, 236
+- Has taken CS260, CS235, CS224, CS236
 - Created a personal project named whack-a-mole for playing the childhood arcade game.
 - Languages: C++, C, Python, JavaScript, HTML/CSS
