@@ -1,9 +1,6 @@
 # PersonalProject: Personal Medical Tracker
 This is the start of the assignment for our CS 291 class, creating a personal project
 
-## Ideas for the personal Project:
-- Personal Medical Tracker: allows you to track your medications and track any symptoms you may be having.
-
 ## Vision: 
 - We want to create a project to create an app that will allow you to track your medical history for taking pills, adding symptoms etc.
 
