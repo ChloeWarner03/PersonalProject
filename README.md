@@ -4,14 +4,14 @@ This is the start of the assignment for our CS 291 class, creating a personal pr
 ## Vision: 
 - We want to create a project to create an app that will allow you to track your medical history for taking pills, adding symptoms etc.
 
-## Inital Requirements:
+## Initial Requirements:
 Features:
 - Log Medications: Track meds, log when you take them, send reminders
-- Symptom Treacker: Log symptoms daily, rate them (scale 1-10), notes for doctors visit.
-- Display Data: Display data tracked, identify trends between symptoms, medications, and other factors. 
+- Symptom Tracker: Log symptoms daily, rate them (scale 1-10), and take notes for doctor's visit
+- Display Data: Display data tracked, identify trends between symptoms, medications, and other factors
 
 ## Architecture:
-This app will be a mobile app, to increase ease of logging symptoms and meds. We will need a database to store user medical information, and a backend server to retrieve info from the database. 
+This will be a mobile app to increase ease of logging symptoms and meds. We will need a database to store user medical information, and a backend server to retrieve information from the database. 
 - will be a mobile app
 - will need a back-end
 - will need a database
